@@ -31,25 +31,25 @@ Some data science and AI projects use pandas, matplotlib, and scikit-learn. Inst
 
 ## Project index
 
-### Python programming for beginners
+### Python programming Skill Test
 1. Expense Tracker CLI - input validation, functions, JSON persistence.
 2. Password Strength Checker - defensive password-quality feedback.
 3. File Organizer - dry-run-first file categorization.
 4. Quiz App - question bank, scoring, and JSON results.
 
-### Data science for beginners
+### Data science Skill Test
 5. Sales Data Analysis - cleaning, KPIs, grouped summaries, chart output.
 6. Hotel Occupancy Analysis - occupancy, room revenue, and monthly trend analysis using synthetic data.
 7. Customer Churn Exploration - exploratory analysis and baseline churn model.
 8. IT Support Ticket Analysis - resolution times, priorities, and category trends.
 
-### Cybersecurity
+### Cybersecurity Skill Test
 9. Authentication Log Analyzer - summarizes failed logins and flags repeated failures.
 10. File Integrity Monitor - SHA-256 baseline and change detection.
 11. Phishing URL Heuristic Checker - explainable URL red flags, not a definitive verdict.
 12. Password Audit - checks a local list against basic password policy without transmitting it.
 
-### AI / machine learning
+### AI / machine learning Skill Test
 13. Spam Text Classifier - TF-IDF + logistic regression on a small illustrative dataset.
 14. Network Intrusion Detection Demo - synthetic tabular traffic data and a baseline classifier.
 15. Support Ticket Intent Classifier - text classification for routing support requests.
