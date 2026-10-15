@@ -1,0 +1,201 @@
+ticket_id,category,priority,status,resolution_hours,location
+T0001,Account Access,Medium,Resolved,9.4,Lagos
+T0002,Email,Medium,Resolved,6.26,Remote
+T0003,Email,Low,Resolved,15.65,Remote
+T0004,Network,Medium,Resolved,9.98,Lagos
+T0005,Email,High,Resolved,3.62,Remote
+T0006,Email,High,Open,1.86,Lagos
+T0007,Account Access,High,Resolved,2.18,Lagos
+T0008,Hardware,Medium,Open,2.95,Lagos
+T0009,Account Access,High,Resolved,14.66,Lagos
+T0010,Email,High,Open,13.59,Ibadan
+T0011,Account Access,High,Resolved,1.58,Remote
+T0012,Hardware,Medium,Resolved,10.94,Ibadan
+T0013,Email,Medium,Escalated,0.96,Ibadan
+T0014,Hardware,Low,Resolved,19.53,Ibadan
+T0015,Software,Low,Open,15.39,Lagos
+T0016,Hardware,High,Escalated,1.92,Remote
+T0017,Software,Medium,Resolved,10.06,Remote
+T0018,Account Access,Medium,Escalated,10.93,Remote
+T0019,Hardware,Medium,Escalated,8.39,Remote
+T0020,Software,Medium,Open,3.38,Remote
+T0021,Hardware,Low,Open,21.21,Remote
+T0022,Network,High,Open,6.88,Lagos
+T0023,Network,Low,Open,11.44,Lagos
+T0024,Account Access,Low,Open,22.02,Remote
+T0025,Software,Medium,Escalated,13.29,Ibadan
+T0026,Software,Low,Open,20.11,Remote
+T0027,Email,Medium,Resolved,12.9,Remote
+T0028,Hardware,Low,Escalated,18.37,Remote
+T0029,Software,Low,Open,19.41,Lagos
+T0030,Account Access,High,Escalated,4.12,Ibadan
+T0031,Hardware,Medium,Resolved,8.45,Ibadan
+T0032,Email,Low,Escalated,16.44,Lagos
+T0033,Hardware,High,Escalated,3.77,Lagos
+T0034,Network,Medium,Resolved,6.55,Ibadan
+T0035,Email,Medium,Open,8.52,Lagos
+T0036,Software,Medium,Escalated,8.19,Ibadan
+T0037,Email,Low,Open,25.08,Lagos
+T0038,Email,Medium,Resolved,2.49,Lagos
+T0039,Network,High,Escalated,10.65,Remote
+T0040,Network,Low,Resolved,14.14,Lagos
+T0041,Account Access,High,Resolved,7.58,Lagos
+T0042,Hardware,Low,Escalated,23.84,Lagos
+T0043,Email,Medium,Resolved,5.79,Remote
+T0044,Account Access,High,Escalated,0.25,Lagos
+T0045,Email,High,Resolved,4.31,Lagos
+T0046,Network,Medium,Escalated,7.79,Remote
+T0047,Email,Medium,Escalated,11.49,Ibadan
+T0048,Software,Medium,Open,7.31,Ibadan
+T0049,Email,Medium,Escalated,2.51,Ibadan
+T0050,Network,High,Resolved,5.51,Lagos
+T0051,Network,Low,Escalated,17.56,Lagos
+T0052,Software,Medium,Resolved,11.89,Lagos
+T0053,Network,Low,Resolved,22.06,Lagos
+T0054,Account Access,Low,Open,16.48,Ibadan
+T0055,Software,High,Open,0.25,Lagos
+T0056,Hardware,High,Open,1.62,Remote
+T0057,Email,Medium,Resolved,8.41,Ibadan
+T0058,Network,High,Escalated,2.52,Lagos
+T0059,Email,High,Open,4.9,Ibadan
+T0060,Hardware,Medium,Resolved,11.43,Lagos
+T0061,Network,Low,Resolved,14.17,Lagos
+T0062,Hardware,Medium,Open,9.67,Remote
+T0063,Software,High,Open,0.25,Ibadan
+T0064,Network,Medium,Resolved,5.04,Remote
+T0065,Software,Medium,Escalated,4.05,Remote
+T0066,Account Access,Medium,Resolved,9.56,Remote
+T0067,Account Access,Medium,Resolved,3.94,Ibadan
+T0068,Software,High,Open,12.51,Ibadan
+T0069,Software,Medium,Open,9.62,Remote
+T0070,Account Access,High,Escalated,0.25,Lagos
+T0071,Email,Low,Escalated,22.26,Lagos
+T0072,Software,Medium,Escalated,6.7,Lagos
+T0073,Software,High,Open,0.25,Ibadan
+T0074,Account Access,High,Resolved,3.02,Ibadan
+T0075,Network,Medium,Resolved,12.56,Remote
+T0076,Email,High,Resolved,2.73,Remote
+T0077,Network,Medium,Escalated,5.81,Remote
+T0078,Network,Low,Open,11.02,Remote
+T0079,Hardware,Low,Escalated,17.27,Remote
+T0080,Software,Medium,Resolved,7.04,Lagos
+T0081,Network,Low,Escalated,17.74,Remote
+T0082,Email,High,Escalated,7.78,Lagos
+T0083,Software,Medium,Escalated,2.67,Remote
+T0084,Email,Low,Resolved,22.35,Lagos
+T0085,Software,Low,Open,15.46,Lagos
+T0086,Account Access,Medium,Resolved,16.64,Ibadan
+T0087,Software,Low,Open,14.33,Ibadan
+T0088,Software,Medium,Open,7.51,Ibadan
+T0089,Network,High,Escalated,8.83,Lagos
+T0090,Account Access,High,Open,8.15,Remote
+T0091,Account Access,High,Resolved,5.74,Lagos
+T0092,Software,High,Open,7.33,Lagos
+T0093,Software,Medium,Open,13.43,Ibadan
+T0094,Email,Medium,Resolved,9.01,Lagos
+T0095,Account Access,Low,Open,16.89,Remote
+T0096,Network,High,Open,9.14,Ibadan
+T0097,Hardware,Low,Resolved,14.99,Remote
+T0098,Hardware,High,Resolved,3.82,Remote
+T0099,Software,High,Resolved,5.81,Remote
+T0100,Account Access,High,Escalated,5.45,Ibadan
+T0101,Email,High,Open,4.85,Lagos
+T0102,Hardware,Low,Open,19.09,Ibadan
+T0103,Account Access,High,Escalated,0.25,Ibadan
+T0104,Software,Low,Resolved,21.47,Remote
+T0105,Email,High,Open,11.08,Remote
+T0106,Account Access,Medium,Resolved,3.5,Lagos
+T0107,Account Access,Medium,Resolved,11.04,Lagos
+T0108,Software,Low,Open,13.34,Ibadan
+T0109,Email,High,Resolved,0.65,Ibadan
+T0110,Software,Medium,Open,4.63,Lagos
+T0111,Email,Low,Open,18.8,Ibadan
+T0112,Account Access,High,Resolved,0.29,Lagos
+T0113,Software,High,Escalated,2.68,Remote
+T0114,Network,High,Open,0.25,Ibadan
+T0115,Email,Medium,Escalated,1.51,Ibadan
+T0116,Email,Low,Resolved,16.24,Lagos
+T0117,Account Access,Medium,Resolved,8.72,Ibadan
+T0118,Network,Medium,Open,7.28,Lagos
+T0119,Account Access,High,Escalated,0.25,Remote
+T0120,Software,Low,Escalated,16.05,Lagos
+T0121,Account Access,Low,Escalated,19.77,Ibadan
+T0122,Email,High,Open,0.25,Ibadan
+T0123,Hardware,Medium,Escalated,0.25,Remote
+T0124,Network,Low,Resolved,13.64,Lagos
+T0125,Hardware,High,Open,8.6,Lagos
+T0126,Hardware,Low,Escalated,23.74,Ibadan
+T0127,Software,Low,Resolved,15.2,Ibadan
+T0128,Software,Low,Escalated,16.52,Lagos
+T0129,Software,High,Resolved,2.99,Ibadan
+T0130,Software,Medium,Escalated,1.84,Lagos
+T0131,Network,High,Escalated,8.59,Ibadan
+T0132,Network,High,Resolved,2.01,Lagos
+T0133,Software,Low,Resolved,14.47,Ibadan
+T0134,Email,High,Open,3.12,Remote
+T0135,Software,Medium,Open,13.34,Lagos
+T0136,Software,Low,Open,13.82,Lagos
+T0137,Software,Medium,Open,18.07,Remote
+T0138,Account Access,High,Resolved,3.04,Lagos
+T0139,Hardware,Low,Resolved,16.29,Remote
+T0140,Account Access,Low,Resolved,15.49,Remote
+T0141,Hardware,High,Escalated,2.09,Lagos
+T0142,Network,Low,Open,15.22,Ibadan
+T0143,Network,Low,Resolved,13.97,Lagos
+T0144,Network,High,Resolved,0.31,Lagos
+T0145,Software,High,Resolved,4.03,Lagos
+T0146,Network,Low,Resolved,19.13,Ibadan
+T0147,Hardware,Low,Open,12.57,Remote
+T0148,Account Access,Low,Escalated,22.93,Remote
+T0149,Network,High,Escalated,0.47,Lagos
+T0150,Account Access,Medium,Escalated,4.51,Remote
+T0151,Software,Low,Open,19.57,Remote
+T0152,Software,Medium,Resolved,8.95,Ibadan
+T0153,Account Access,Low,Escalated,17.72,Remote
+T0154,Email,High,Escalated,4.65,Ibadan
+T0155,Network,High,Escalated,4.93,Remote
+T0156,Account Access,High,Resolved,1.09,Ibadan
+T0157,Network,Low,Resolved,16.04,Remote
+T0158,Email,Low,Escalated,18.06,Lagos
+T0159,Hardware,Medium,Escalated,13.37,Ibadan
+T0160,Hardware,High,Escalated,8.86,Lagos
+T0161,Software,Low,Resolved,19.49,Lagos
+T0162,Network,Low,Resolved,18.16,Remote
+T0163,Hardware,High,Resolved,1.41,Remote
+T0164,Software,Low,Escalated,11.36,Remote
+T0165,Email,High,Open,3.96,Remote
+T0166,Account Access,Low,Escalated,19.37,Ibadan
+T0167,Software,High,Escalated,0.25,Remote
+T0168,Network,Medium,Escalated,2.33,Ibadan
+T0169,Account Access,Low,Open,18.32,Ibadan
+T0170,Email,High,Open,12.09,Ibadan
+T0171,Account Access,Low,Open,20.17,Lagos
+T0172,Software,Medium,Escalated,8.17,Remote
+T0173,Hardware,Low,Resolved,13.39,Remote
+T0174,Network,Low,Resolved,22.8,Ibadan
+T0175,Hardware,High,Escalated,8.81,Remote
+T0176,Network,Medium,Resolved,10.47,Remote
+T0177,Hardware,Low,Resolved,12.83,Lagos
+T0178,Hardware,Low,Escalated,18.01,Remote
+T0179,Network,Low,Open,17.98,Lagos
+T0180,Network,Medium,Resolved,7.71,Ibadan
+T0181,Account Access,Low,Escalated,25.17,Remote
+T0182,Software,Low,Resolved,14.69,Lagos
+T0183,Software,High,Escalated,0.25,Ibadan
+T0184,Network,High,Escalated,9.77,Lagos
+T0185,Account Access,Low,Resolved,21.78,Lagos
+T0186,Software,Medium,Resolved,0.25,Ibadan
+T0187,Network,High,Resolved,0.25,Remote
+T0188,Hardware,High,Escalated,4.03,Lagos
+T0189,Software,Medium,Open,4.09,Remote
+T0190,Email,Low,Open,15.46,Lagos
+T0191,Software,Low,Escalated,18.39,Lagos
+T0192,Hardware,Low,Escalated,21.67,Ibadan
+T0193,Hardware,Low,Resolved,21.17,Ibadan
+T0194,Network,Low,Escalated,28.98,Ibadan
+T0195,Network,Low,Escalated,25.51,Ibadan
+T0196,Hardware,Medium,Escalated,3.95,Lagos
+T0197,Email,Low,Resolved,12.31,Lagos
+T0198,Email,High,Open,2.81,Ibadan
+T0199,Account Access,Low,Resolved,15.98,Remote
+T0200,Hardware,Medium,Resolved,15.54,Ibadan

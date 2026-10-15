@@ -1,0 +1,31 @@
+ticket_text,intent
+I cannot log in to my account,account
+please reset my password,account
+my login keeps failing,account
+I forgot my username,account
+the internet connection is down,network
+wifi is very slow,network
+the office router has stopped working,network
+I cannot reach the shared drive,network
+my laptop will not turn on,hardware
+the keyboard is broken,hardware
+my monitor is blank,hardware
+I need a replacement mouse,hardware
+the application crashes when opened,software
+please install the spreadsheet app,software
+the program shows an error message,software
+software update failed,software
+I am not receiving emails,email
+outgoing messages are stuck,email
+mailbox is full,email
+email attachments will not open,email
+please unlock my user account,account
+vpn connection is disconnected,network
+my desktop makes a loud noise,hardware
+the browser keeps freezing,software
+calendar invitations are missing,email
+cannot sign in after password change,account
+network cable is damaged,network
+printer hardware is jammed,hardware
+the installed app needs an update,software
+email is asking for credentials again,email
